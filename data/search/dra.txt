@@ -8521,6 +8521,7 @@
 10 19 15	And the king returned and came as far as the Jordan, and all Juda came as far as Galgal to meet the king, and to bring him over the Jordan.
 10 19 16	And Semei the son of Gera the son of Jemini of Bahurim, made haste and went down with the men of Juda to meet king David,
 10 19 17	With a thousand men of Benjamin, and Siba the servant of the house of Saul: and his fifteen sons, and twenty servants were with him: and going over the Jordan,
+10 19 18	They passed the fords before the king, that they might help over the king’s household, and do according to his commandment. And Semei the son of Gera falling down before the king, when he was come over the Jordan,
 10 19 19	Said to him: Impute not to me, my lord, the iniquity, nor remember the injuries of thy servant on the day that thou, my lord, the king, wentest out of Jerusalem, nor lay it up in thy heart, O king.
 10 19 20	For I thy servant acknowledge my sin: and therefore I am come this day the first of all the house of Joseph, and am come down to meet my lord the king.
 10 19 21	But Abisai the son of Sarvia answering, said: Shall Semei for these words not be put to death, because he cursed the Lord’s anointed?
@@ -9720,6 +9721,7 @@
 12 7 18	And it came to pass, according to the word of the man of God, which he spoke to the king, when he said: Two bushels of barley shall be for a stater, and a bushel of fine flour for a stater, at this very time tomorrow, in the gate of Samaria.
 12 7 19	When that lord answered the man of God, and said: Although the Lord should make flood-gates in heaven, could this come to pass which thou sayest? And he said to him: Thou shalt see it with thy eyes, and shalt not eat thereof.
 12 7 20	And so it fell out to him, as it was foretold, and the people trod upon him in the gate, and he died.
+12 8 1	And Eliseus spoke to the woman, whose son he had restored to life, saying: Arise, and go thou, and thy household, and sojourn wheresoever thou canst find: for the Lord hath called a famine, and it shall come upon the land seven years.
 12 8 2	And she arose, and did according to the word of the man of God: and going with her household, she sojourned in the land of the Philistines many days.
 12 8 3	And when the seven years were ended, the woman returned out of the land of the Philistines, and she went forth to speak to the king for her house and for her lands.
 12 8 4	And the king talked with Giezi, the servant of the man of God, saying: Tell me all the great things that Eliseus hath done.
@@ -14970,6 +14972,7 @@
 21 21 11	I was cast upon thee from the womb. From my mother’s womb thou art my God,
 21 21 12	Depart not from me. For tribulation is very near: for there is none to help me.
 21 21 13	Many calves have surrounded me: fat bulls have besieged me.
+21 21 14	They have opened their mouths against me, as a lion ravening and roaring.
 21 21 15	I am poured out like water; and all my bones are scattered. My heart is become like wax melting in the midst of my bowels.
 21 21 16	My strength is dried up like a potsherd, and my tongue hath cleaved to my jaws: and thou hast brought me down into the dust of death.
 21 21 17	For many dogs have encompassed me: the council of the malignant hath besieged me. They have dug my hands and feet.
@@ -25668,6 +25671,7 @@
 35 5 23	Take away from me the tumult of thy songs: and I will not hear the canticles of thy harp.
 35 5 24	But judgment shall be revealed as water, and justice as a mighty torrent.
 35 5 25	Did you offer victims and sacrifices to me in the desert for forty years, O house of Israel?
+35 5 26	But you carried a tabernacle for your Moloch, and the image of your idols, the star of your god, which you made to yourselves.
 35 5 27	And I will cause you to go into captivity beyond Damascus, saith the Lord, the God of hosts is his name.
 35 6 1	Woe to you that are wealthy in Sion, and to you that have confidence in the mountain of Samaria: ye great men, heads of the people, that go in with state into the house of Israel.
 35 6 2	Pass ye over to Chalane, and see, and go from thence into Emath the great: and go down into Geth of the Philistines, and to all the best kingdoms of these: if their border be larger than your border.
@@ -26023,6 +26027,7 @@
 41 1 16	A day of the trumpet and alarm against the fenced cities, and against the high bulwarks.
 41 1 17	And I will distress men, and they shall walk like blind men, because they have sinned against the Lord: and their blood shall be poured out as earth, and their bodies as dung.
 41 1 18	Neither shall their silver and their gold be able to deliver them in the day of the wrath of the Lord: all the land shall be devoured by the fire of his jealousy: for he shall make even a speedy destruction of all them that dwell in the land.
+41 2 1	Assemble yourselves together, be gathered together, O nation not worthy to be loved:
 41 2 2	Before the decree bring forth the day as dust passing away, before the fierce anger of the Lord come upon you, before the day of the Lord’s indignation come upon you.
 41 2 3	Seek the Lord, all ye meek of the earth, you that have wrought his judgment: seek the just, seek the meek: if by any means you may be hid in the day of the Lord’s indignation.
 41 2 4	For Gaza shall be destroyed, and Ascalon shall be a desert, they shall cast out Azotus at noonday, and Accaron shall be rooted up.
@@ -27326,6 +27331,7 @@
 46 1 34	And the king considering, and diligently examining the matter, made a temple for it, that he might prove what had happened.
 46 1 35	And when he had proved it, he gave the priests many goods, and divers presents, and he took and distributed them to them with his own hand.
 46 1 36	And Nehemias called this place Nephthar, which is interpreted purification. But many call it Nephi.
+46 2 1	Now it is found in the descriptions of Jeremias, the prophet, that he commanded them that went into captivity, to take the fire, as it hath been signified, and how he gave charge to them that were carried away into captivity.
 46 2 2	And how he gave them the law, that they should not forget the commandments of the Lord, and that they should not err in their minds, seeing the idols of gold, and silver, and the ornaments of them.
 46 2 3	And with other such like speeches, he exhorted them that they would not remove the law from their heart.
 46 2 4	It was also contained in the same writing, how the prophet, being warned by God, commanded that the tabernacle and the ark should accompany him, till he came forth to the mountain where Moses went up, and saw the inheritance of God.
@@ -34422,6 +34428,7 @@
 61 2 10	But, as it becometh women professing godliness, with good works.
 61 2 11	Let the woman learn in silence with all subjection.
 61 2 12	But I suffer not a woman to teach, nor to use authority over the man: but to be in silence.
+61 2 13	For Adam was first formed; then Eve.
 61 2 14	And Adam was not seduced; but the woman, being seduced, was in the transgression.
 61 2 15	Yet she shall be saved through child bearing; if she continue in faith and love and sanctification with sobriety.
 61 3 1	A faithful saying: If a man desire the office of a bishop, he desireth a good work.
